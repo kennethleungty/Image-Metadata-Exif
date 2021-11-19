@@ -9,6 +9,8 @@ This metadata can be useful in numerous business cases. For instance, fraud dete
 
 In this project, we explore how we can utilize the exif library to read and edit the metadata of digital images.
 
+The exif library can be installed with `pip install exif`
+
 
 ### Files and Folders
 - `/sample_images`: Set of sample digital photos (by author) for metadata extraction and modification
