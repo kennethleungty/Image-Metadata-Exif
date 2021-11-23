@@ -1,6 +1,6 @@
 # Read and Modify Image Metadata Extraction in Python with exif
 
-Link to Medium article: COMING SOON!
+Link to Medium article: https://towardsdatascience.com/read-and-edit-image-metadata-with-python-f635398cd991
 
 ### Context
 For every photo, there is more than meets the eye. The photos taken with digital cameras and smartphones contain rich metadata, which is additional information about the image beyond the visible pixels.
